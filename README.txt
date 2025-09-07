@@ -1,5 +1,6 @@
-Only 9/72 on VirusTotal ! [MADE IN c++]
+Only 9/72 on VirusTotal ! [MADE IN c++] https://youtu.be/D0xjhboPWe0
                           
 I am not responsable for any damage(s), I do it for fun, but I do not want that somebody use it for destroy a PC !
 
 NEVER execute this TROJAN ON A REAL PC !
+
